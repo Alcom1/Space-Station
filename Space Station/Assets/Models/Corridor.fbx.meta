@@ -1,22 +1,15 @@
 fileFormatVersion: 2
-guid: 27c32b3fc4be6c64cadbfc1d969e7612
-timeCreated: 1447895289
-licenseType: Free
+guid: c419930cdb6c8e74baa40572d7478f70
+timeCreated: 1448034473
+licenseType: Pro
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Corridor:corridor
-    100004: Corridor:grate
     400000: //RootNode
-    400002: Corridor:corridor
-    400004: Corridor:grate
-    2300000: Corridor:corridor
-    2300002: Corridor:grate
-    3300000: Corridor:corridor
-    3300002: Corridor:grate
-    4300000: Corridor:corridor
-    4300002: Corridor:grate
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Corridor1
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -74,10 +67,8 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
-  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

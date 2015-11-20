@@ -1,22 +1,25 @@
 fileFormatVersion: 2
-guid: 1ec8242ce5c42344dbf2bb3f650099b0
-timeCreated: 1447895157
-licenseType: Free
+guid: ac4a21457658d824f88a5c2aba1a736d
+timeCreated: 1448034473
+licenseType: Pro
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: corridor
     100002: //RootNode
     100004: grate
+    100006: intersection
+    100008: transform1
+    100010: transform2
     400000: corridor
     400002: //RootNode
     400004: grate
-    2300000: corridor
-    2300002: grate
-    3300000: corridor
-    3300002: grate
-    4300000: grate
-    4300002: corridor
+    400006: intersection
+    400008: transform1
+    400010: transform2
+    2300000: intersection
+    3300000: intersection
+    4300000: intersection
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -74,10 +77,8 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
-  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

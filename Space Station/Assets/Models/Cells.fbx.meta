@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 91b5b883417ab3d4b8980b5a270eb404
+timeCreated: 1448331507
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: group1
+    100006: group10
+    100008: group11
+    100010: group12
+    100012: group13
+    100014: group14
+    100016: group15
+    100018: group16
+    100020: group17
+    100022: group18
+    100024: group19
+    100026: group2
+    100028: group20
+    100030: group21
+    100032: group22
+    100034: group23
+    100036: group24
+    100038: group25
+    100040: group26
+    100042: group27
+    100044: group28
+    100046: group29
+    100048: group3
+    100050: group30
+    100052: group31
+    100054: group32
+    100056: group33
+    100058: group34
+    100060: group35
+    100062: group38
+    100064: group4
+    100066: group5
+    100068: group6
+    100070: group7
+    100072: group8
+    100074: group9
+    100076: null1
+    100078: pasted__group10
+    100080: pasted__group12
+    100082: pasted__group15
+    100084: pasted__group16
+    100086: pasted__group16 1
+    100088: pasted__group18
+    100090: pasted__group18 1
+    100092: pasted__group18 2
+    100094: pasted__group19
+    100096: pasted__group2
+    100098: pasted__group2 1
+    100100: pasted__group2 2
+    100102: pasted__group23
+    100104: pasted__group27
+    100106: pasted__group28
+    100108: pasted__group3
+    100110: pasted__group3 1
+    100112: pasted__group33
+    100114: pasted__group34
+    100116: pasted__group6
+    100118: pasted__group9
+    100120: pasted__null1
+    100122: pasted__pasted__group12
+    100124: pasted__pasted__group15
+    100126: pasted__pasted__group15 1
+    100128: pasted__pasted__group16
+    100130: pasted__pasted__group16 1
+    100132: pasted__pasted__group16 2
+    100134: pasted__pasted__group18
+    100136: pasted__pasted__group2
+    100138: pasted__pasted__group2 1
+    100140: pasted__pasted__group27
+    100142: pasted__pasted__group3
+    100144: pasted__pasted__group33
+    100146: pasted__pasted__null1
+    100148: pasted__pasted__pasted__group12
+    100150: pasted__pasted__pasted__group12 1
+    100152: pasted__pasted__pasted__group15
+    100154: pasted__pasted__pasted__group15 1
+    100156: pasted__pasted__pasted__group15 2
+    100158: pasted__pasted__pasted__group16
+    100160: pasted__pasted__pasted__group2
+    100162: pasted__pasted__pasted__null1
+    100164: pasted__pasted__pasted__null1 1
+    100166: pasted__pasted__pasted__pasted__group12
+    100168: pasted__pasted__pasted__pasted__group12 1
+    100170: pasted__pasted__pasted__pasted__group12 2
+    100172: pasted__pasted__pasted__pasted__group15
+    100174: pasted__pasted__pasted__pasted__null1
+    100176: pasted__pasted__pasted__pasted__null1 1
+    100178: pasted__pasted__pasted__pasted__null1 2
+    100180: pasted__pasted__pasted__pasted__pasted__group12
+    100182: pasted__pasted__pasted__pasted__pasted__null1
+    100184: pasted__pasted__pasted__pasted__pasted__pasted__pCube2
+    100186: pasted__pasted__pasted__pasted__pasted__pCube2
+    100188: pasted__pasted__pasted__pasted__pasted__pCube2 1
+    100190: pasted__pasted__pasted__pasted__pasted__pCube2 2
+    100192: pasted__pasted__pasted__pasted__pCube2
+    100194: pasted__pasted__pasted__pasted__pCube2 1
+    100196: pasted__pasted__pasted__pasted__pCube2 2
+    100198: pasted__pasted__pasted__pCube10
+    100200: pasted__pasted__pasted__pCube11
+    100202: pasted__pasted__pasted__pCube2
+    100204: pasted__pasted__pasted__pCube2 1
+    100206: pasted__pasted__pasted__pCube2 2
+    100208: pasted__pasted__pCube11
+    100210: pasted__pasted__pCube2
+    100212: pasted__pasted__pCube2 1
+    100214: pasted__pasted__pCube2 2
+    100216: pasted__pasted__pCube3
+    100218: pasted__pasted__pCube3 1
+    100220: pasted__pasted__pCube4
+    100222: pasted__pCube10
+    100224: pasted__pCube11
+    100226: pasted__pCube11 1
+    100228: pasted__pCube2
+    100230: pasted__pCube2 1
+    100232: pasted__pCube2 2
+    100234: pasted__pCube3
+    100236: pasted__pCube3 1
+    100238: pasted__pCube3 2
+    100240: pasted__pCube4
+    100242: pasted__pCube5
+    100244: pasted__pCube8
+    100246: pasted__pCube8 1
+    100248: pCube10
+    100250: pCube11
+    100252: pCube2
+    100254: pCube3
+    100256: pCube4
+    100258: pCube5
+    100260: pCube7
+    100262: pCube8
+    100264: PrisCell_1
+    100266: PrisCell_2
+    100268: PrisCell_3
+    100270: PrisCell_4
+    100272: transform1
+    100274: transform10
+    100276: transform11
+    100278: transform12
+    100280: transform13
+    100282: transform14
+    100284: transform15
+    100286: transform16
+    100288: transform17
+    100290: transform18
+    100292: transform19
+    100294: transform2
+    100296: transform20
+    100298: transform21
+    100300: transform22
+    100302: transform23
+    100304: transform24
+    100306: transform25
+    100308: transform26
+    100310: transform27
+    100312: transform28
+    100314: transform29
+    100316: transform3
+    100318: transform30
+    100320: transform31
+    100322: transform32
+    100324: transform33
+    100326: transform34
+    100328: transform35
+    100330: transform36
+    100332: transform37
+    100334: transform38
+    100336: transform39
+    100338: transform4
+    100340: transform40
+    100342: transform5
+    100344: transform6
+    100346: transform7
+    100348: transform8
+    100350: transform9
+    400000: //RootNode
+    400002: group
+    400004: group1
+    400006: group10
+    400008: group11
+    400010: group12
+    400012: group13
+    400014: group14
+    400016: group15
+    400018: group16
+    400020: group17
+    400022: group18
+    400024: group19
+    400026: group2
+    400028: group20
+    400030: group21
+    400032: group22
+    400034: group23
+    400036: group24
+    400038: group25
+    400040: group26
+    400042: group27
+    400044: group28
+    400046: group29
+    400048: group3
+    400050: group30
+    400052: group31
+    400054: group32
+    400056: group33
+    400058: group34
+    400060: group35
+    400062: group38
+    400064: group4
+    400066: group5
+    400068: group6
+    400070: group7
+    400072: group8
+    400074: group9
+    400076: null1
+    400078: pasted__group10
+    400080: pasted__group12
+    400082: pasted__group15
+    400084: pasted__group16
+    400086: pasted__group16 1
+    400088: pasted__group18
+    400090: pasted__group18 1
+    400092: pasted__group18 2
+    400094: pasted__group19
+    400096: pasted__group2
+    400098: pasted__group2 1
+    400100: pasted__group2 2
+    400102: pasted__group23
+    400104: pasted__group27
+    400106: pasted__group28
+    400108: pasted__group3
+    400110: pasted__group3 1
+    400112: pasted__group33
+    400114: pasted__group34
+    400116: pasted__group6
+    400118: pasted__group9
+    400120: pasted__null1
+    400122: pasted__pasted__group12
+    400124: pasted__pasted__group15
+    400126: pasted__pasted__group15 1
+    400128: pasted__pasted__group16
+    400130: pasted__pasted__group16 1
+    400132: pasted__pasted__group16 2
+    400134: pasted__pasted__group18
+    400136: pasted__pasted__group2
+    400138: pasted__pasted__group2 1
+    400140: pasted__pasted__group27
+    400142: pasted__pasted__group3
+    400144: pasted__pasted__group33
+    400146: pasted__pasted__null1
+    400148: pasted__pasted__pasted__group12
+    400150: pasted__pasted__pasted__group12 1
+    400152: pasted__pasted__pasted__group15
+    400154: pasted__pasted__pasted__group15 1
+    400156: pasted__pasted__pasted__group15 2
+    400158: pasted__pasted__pasted__group16
+    400160: pasted__pasted__pasted__group2
+    400162: pasted__pasted__pasted__null1
+    400164: pasted__pasted__pasted__null1 1
+    400166: pasted__pasted__pasted__pasted__group12
+    400168: pasted__pasted__pasted__pasted__group12 1
+    400170: pasted__pasted__pasted__pasted__group12 2
+    400172: pasted__pasted__pasted__pasted__group15
+    400174: pasted__pasted__pasted__pasted__null1
+    400176: pasted__pasted__pasted__pasted__null1 1
+    400178: pasted__pasted__pasted__pasted__null1 2
+    400180: pasted__pasted__pasted__pasted__pasted__group12
+    400182: pasted__pasted__pasted__pasted__pasted__null1
+    400184: pasted__pasted__pasted__pasted__pasted__pasted__pCube2
+    400186: pasted__pasted__pasted__pasted__pasted__pCube2
+    400188: pasted__pasted__pasted__pasted__pasted__pCube2 1
+    400190: pasted__pasted__pasted__pasted__pasted__pCube2 2
+    400192: pasted__pasted__pasted__pasted__pCube2
+    400194: pasted__pasted__pasted__pasted__pCube2 1
+    400196: pasted__pasted__pasted__pasted__pCube2 2
+    400198: pasted__pasted__pasted__pCube10
+    400200: pasted__pasted__pasted__pCube11
+    400202: pasted__pasted__pasted__pCube2
+    400204: pasted__pasted__pasted__pCube2 1
+    400206: pasted__pasted__pasted__pCube2 2
+    400208: pasted__pasted__pCube11
+    400210: pasted__pasted__pCube2
+    400212: pasted__pasted__pCube2 1
+    400214: pasted__pasted__pCube2 2
+    400216: pasted__pasted__pCube3
+    400218: pasted__pasted__pCube3 1
+    400220: pasted__pasted__pCube4
+    400222: pasted__pCube10
+    400224: pasted__pCube11
+    400226: pasted__pCube11 1
+    400228: pasted__pCube2
+    400230: pasted__pCube2 1
+    400232: pasted__pCube2 2
+    400234: pasted__pCube3
+    400236: pasted__pCube3 1
+    400238: pasted__pCube3 2
+    400240: pasted__pCube4
+    400242: pasted__pCube5
+    400244: pasted__pCube8
+    400246: pasted__pCube8 1
+    400248: pCube10
+    400250: pCube11
+    400252: pCube2
+    400254: pCube3
+    400256: pCube4
+    400258: pCube5
+    400260: pCube7
+    400262: pCube8
+    400264: PrisCell_1
+    400266: PrisCell_2
+    400268: PrisCell_3
+    400270: PrisCell_4
+    400272: transform1
+    400274: transform10
+    400276: transform11
+    400278: transform12
+    400280: transform13
+    400282: transform14
+    400284: transform15
+    400286: transform16
+    400288: transform17
+    400290: transform18
+    400292: transform19
+    400294: transform2
+    400296: transform20
+    400298: transform21
+    400300: transform22
+    400302: transform23
+    400304: transform24
+    400306: transform25
+    400308: transform26
+    400310: transform27
+    400312: transform28
+    400314: transform29
+    400316: transform3
+    400318: transform30
+    400320: transform31
+    400322: transform32
+    400324: transform33
+    400326: transform34
+    400328: transform35
+    400330: transform36
+    400332: transform37
+    400334: transform38
+    400336: transform39
+    400338: transform4
+    400340: transform40
+    400342: transform5
+    400344: transform6
+    400346: transform7
+    400348: transform8
+    400350: transform9
+    2300000: PrisCell_1
+    2300002: PrisCell_2
+    2300004: PrisCell_3
+    2300006: PrisCell_4
+    3300000: PrisCell_1
+    3300002: PrisCell_2
+    3300004: PrisCell_3
+    3300006: PrisCell_4
+    4300000: PrisCell_1
+    4300002: PrisCell_2
+    4300004: PrisCell_3
+    4300006: PrisCell_4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -181,6 +181,10 @@ ModelImporter:
     100346: transform7
     100348: transform8
     100350: transform9
+    100352: bed4
+    100354: chair
+    100356: chair2
+    100358: chair3
     400000: //RootNode
     400002: group
     400004: group1
@@ -357,18 +361,34 @@ ModelImporter:
     400346: transform7
     400348: transform8
     400350: transform9
+    400352: bed4
+    400354: chair
+    400356: chair2
+    400358: chair3
     2300000: PrisCell_1
     2300002: PrisCell_2
     2300004: PrisCell_3
     2300006: PrisCell_4
+    2300008: bed4
+    2300010: chair
+    2300012: chair2
+    2300014: chair3
     3300000: PrisCell_1
     3300002: PrisCell_2
     3300004: PrisCell_3
     3300006: PrisCell_4
+    3300008: bed4
+    3300010: chair
+    3300012: chair2
+    3300014: chair3
     4300000: PrisCell_1
     4300002: PrisCell_2
     4300004: PrisCell_3
     4300006: PrisCell_4
+    4300008: chair
+    4300010: chair2
+    4300012: chair3
+    4300014: bed4
     9500000: //RootNode
   materials:
     importMaterials: 1

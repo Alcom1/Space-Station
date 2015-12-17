@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: a70b07294396ddf43ae7404dbef8a06c
+timeCreated: 1450383131
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bed_1
+    100002: Bed_2
+    100004: Bed_3
+    100006: Bed_4
+    100008: Books
+    100010: Cards_and_Dice
+    100012: Cell_1
+    100014: Cell_1_Walls
+    100016: Cell_2
+    100018: Cell_2_Walls
+    100020: Cell_3
+    100022: Cell_3_Walls
+    100024: Cell_4
+    100026: Cell_4_Walls
+    100028: //RootNode
+    100030: Chair_1
+    100032: Chair_2
+    100034: Chair_3
+    100036: Chair_4
+    100038: Cross
+    100040: Lifting_Weights
+    100042: Table_1
+    100044: Table_2
+    100046: Table_3
+    100048: Table_4
+    100050: Toilet_1
+    100052: Toilet_2
+    100054: Toilet_3
+    100056: Toilet_4
+    400000: Bed_1
+    400002: Bed_2
+    400004: Bed_3
+    400006: Bed_4
+    400008: Books
+    400010: Cards_and_Dice
+    400012: Cell_1
+    400014: Cell_1_Walls
+    400016: Cell_2
+    400018: Cell_2_Walls
+    400020: Cell_3
+    400022: Cell_3_Walls
+    400024: Cell_4
+    400026: Cell_4_Walls
+    400028: //RootNode
+    400030: Chair_1
+    400032: Chair_2
+    400034: Chair_3
+    400036: Chair_4
+    400038: Cross
+    400040: Lifting_Weights
+    400042: Table_1
+    400044: Table_2
+    400046: Table_3
+    400048: Table_4
+    400050: Toilet_1
+    400052: Toilet_2
+    400054: Toilet_3
+    400056: Toilet_4
+    2300000: Bed_1
+    2300002: Bed_2
+    2300004: Bed_3
+    2300006: Bed_4
+    2300008: Books
+    2300010: Cards_and_Dice
+    2300012: Cell_1_Walls
+    2300014: Cell_2_Walls
+    2300016: Cell_3_Walls
+    2300018: Cell_4_Walls
+    2300020: Chair_1
+    2300022: Chair_2
+    2300024: Chair_3
+    2300026: Chair_4
+    2300028: Cross
+    2300030: Lifting_Weights
+    2300032: Table_1
+    2300034: Table_2
+    2300036: Table_3
+    2300038: Table_4
+    2300040: Toilet_1
+    2300042: Toilet_2
+    2300044: Toilet_3
+    2300046: Toilet_4
+    3300000: Bed_1
+    3300002: Bed_2
+    3300004: Bed_3
+    3300006: Bed_4
+    3300008: Books
+    3300010: Cards_and_Dice
+    3300012: Cell_1_Walls
+    3300014: Cell_2_Walls
+    3300016: Cell_3_Walls
+    3300018: Cell_4_Walls
+    3300020: Chair_1
+    3300022: Chair_2
+    3300024: Chair_3
+    3300026: Chair_4
+    3300028: Cross
+    3300030: Lifting_Weights
+    3300032: Table_1
+    3300034: Table_2
+    3300036: Table_3
+    3300038: Table_4
+    3300040: Toilet_1
+    3300042: Toilet_2
+    3300044: Toilet_3
+    3300046: Toilet_4
+    4300000: Chair_1
+    4300002: Table_1
+    4300004: Bed_1
+    4300006: Toilet_1
+    4300008: Cards_and_Dice
+    4300010: Cell_1_Walls
+    4300012: Chair_2
+    4300014: Table_2
+    4300016: Bed_2
+    4300018: Toilet_2
+    4300020: Cross
+    4300022: Cell_2_Walls
+    4300024: Cell_3_Walls
+    4300026: Chair_3
+    4300028: Table_3
+    4300030: Bed_3
+    4300032: Toilet_3
+    4300034: Books
+    4300036: Chair_4
+    4300038: Table_4
+    4300040: Bed_4
+    4300042: Toilet_4
+    4300044: Lifting_Weights
+    4300046: Cell_4_Walls
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
